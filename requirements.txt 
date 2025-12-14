@@ -1,2 +1,6 @@
 flask
 flask-cors
+boto3 
+pypdf
+numpy
+python-dotenv
